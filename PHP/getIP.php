@@ -11,6 +11,10 @@ else
 {
     $ip=$_SERVER['REMOTE_ADDR'];
 }
-echo "Your IP address is $ip";
-
 ?>
+
+<?php
+echo "Your IP address is $ip";
+?>
+
+Your IP address is 74.125.224.72 <!-- this is googles ip address -->

@@ -24,5 +24,4 @@ for($i=count($times)-1;$i>=0;$i--)
     }
 }
 echo 'This file was modified '.$mod.'ago';
-
 ?>
